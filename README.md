@@ -69,11 +69,11 @@ Para rodar o projeto localmente, é necessário ter:
 
 * Aba de cadastro de novos produtos:
 
-![Aba de cadastro de novos produto](Images/image-pg-cadastro.png)
+![Aba de cadastro de novos produto](images/image-pg-cadastro.png)
 
 * Aba de produtos cadastrados:
 
-![Aba de produtos](Images/image-pg-produtos.png)
+![Aba de produtos](images/image-pg-produtos.png)
 
 ## 🛠 Backend (Opcional)
 
